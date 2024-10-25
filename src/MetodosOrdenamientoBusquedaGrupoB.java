@@ -52,7 +52,7 @@ public class MetodosOrdenamientoBusquedaGrupoB {
                 max = mid - 1;
             }
         }
-        return -1; // Placeholder return value
+        return -1; 
     
     }
 
